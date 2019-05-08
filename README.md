@@ -4,8 +4,8 @@
 
 blablablablablablablablabla
 
-** Dit is vet **
-* dit is cursief *
+**Dit is vet**
+*dit is cursief*
 
 * blablabla
 * blabla
